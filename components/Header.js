@@ -65,7 +65,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
         <div className="flex">
           <Link href="/">
             <div className="h-6">
-              <Image src="../public/favicon.svg" width={24} height={24} alt={BLOG.author} />
+              <Image src="./public/favicon.svg" width={24} height={24} alt={BLOG.author} />
               {/* <svg
                 width="24"
                 height="24"
