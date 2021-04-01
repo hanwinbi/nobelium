@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Hanwin Bi',
   email: ' bihanwin@gmail.com',
   link: 'https://hanwin.vercel.app',
-  description: 'This gonna be an awesome website.',
+  description: '成长合集',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
